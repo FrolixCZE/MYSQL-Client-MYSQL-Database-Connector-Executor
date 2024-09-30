@@ -9,4 +9,5 @@ Open the python file, input your desired mysql database details, host, port, use
 And you will be connected.
 # Features/Commands
 Any SQL Command
-"SHOW TABLES" will show all the tables in the database.
+or "SHOW TABLES" will show all the tables in the database.
+or "EXIT" will disconnect from the currently connected database.
